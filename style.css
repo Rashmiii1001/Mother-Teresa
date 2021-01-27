@@ -1,0 +1,21 @@
+body{
+  margin: 60px;
+  background: darkgrey;
+
+}
+.container-fluid{
+  background-color:#EEEEEE;
+}
+.header{
+  text-align: center;
+}
+#imagetext{
+  background-color: white !important;
+}
+.main{
+  max-width: 660px; /* for  below IE7 use `width: 660px;` */
+    margin: 0 auto;
+}
+li span{
+  font-weight: bold;
+}
