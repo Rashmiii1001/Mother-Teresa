@@ -1,4 +1,4 @@
-# mother_teresa
+# Mother Teresa
 ## A Tribute Page - Mother Tersa
 Mother Teresa is one of the greatest humanitarians the world has ever produced. 
 Her entire life was devoted to serving the poor and needy people. 
